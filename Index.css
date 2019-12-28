@@ -1,0 +1,23 @@
+body
+  {background-color: #666;
+   margin: 0px;}
+h1
+  {text-align: center;
+   font-family: Forte; font-size: 150px;
+   margin-top: 0px; margin-bottom: 50px; padding-top: 25px;
+   color: #00ffff}
+.Player1, .Player2
+  {width: 50%;
+   text-align: center;}
+.Player1
+  {margin-right: auto;
+   float: left;}
+.Player2
+  {margin-left: auto;
+   float: right;}
+img
+  {height: 400px; width: 400px;}
+p
+  {font-size: 50px; font-family: Georgia; font-weight: bold;
+   margin-top: 50px; margin-bottom: 10px;
+   color: yellow;}
